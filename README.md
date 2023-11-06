@@ -1,11 +1,25 @@
-# DDDD Techstack skeleton
-This is the DreamDrivenDevelopmentDepartment Techstack skeleton. It acts as a starting point for new projects.
+# Project Name
 
-## Start a new project from this skeleton:
-1. fork this repo
-2. change the project name in go.mod
-3. add the new binaryname and dbname to gitignore
+P
 
-## run the project
-1. ```go mod tidy```
-2. ```go build && ./skeleton```
+
+## Features
+
+### User Authentication
+
+- Users can securely register and log in to the system.
+
+### Newsfeed and Articles
+
+- Users can view newsfeed items and articles posted by others.
+- Users have the ability to create, edit, and delete their own articles.
+
+### Interactions
+
+- Users can engage with articles by liking them.
+- User interactions, such as likes, are tracked and displayed.
+
+### Categorization
+
+- Articles can be tagged to enable users to view articles in different categories.
+
